@@ -4,7 +4,7 @@ This repository contains the code for the paper ["Neural Catalog: Scaling Specie
 
 ## Features
 
-Pre-extracted features used in this work can be downloaded from [here]().
+Pre-extracted features used in this work can be downloaded from [here](https://waga.s3.us-west-2.amazonaws.com/feats.zip).
 
 ## Running
 
